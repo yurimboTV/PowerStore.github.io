@@ -1,0 +1,30 @@
+=============================================================================
+||                  EN CASO DE QUERER EDITAR EL CÓDIGO:                    ||
+=============================================================================
+
+    - Archivo pirncipal de la página web: "index.html".
+
+    - Archivo de los colores, tipografías etc. : Style.css.
+
+    - Al momento de editar los colores en "style.css" podras acerlo de una manera mas sencilla en la seccion llamada "VARIABLES"
+
+    - Archivo de Funciones(botones, cuadros de busqueda, etc.): son todos los terminados en ".js" (admin.js, carrito.js, etc.).
+
+=============================================================================
+||                EN CASO DE NO SABER USAR ALGUNAS FUNCIONES:              ||
+=============================================================================
+
+    - Para añadir un elemento/producto al inventario deberas hacerlo desde el archivo "admin.html".
+     ##Aclaracion## El admin.html tiene la clasificación "ACTB": "Aprueba de Casi Todos los Boludos/as".
+
+    - Para añadir una imagen al producto deberas meter el archivo(puede ser .jpg .png o cualquier otro) en la carpeta  "img".
+    para posteriormente ingresar la ruta del archivo en la seccion ddicada en "admin.html"
+
+    - Si queres cambiar la cantidad de stock tendras que usar los botones "-" para disminuir y "+" para aumentar.
+
+    - si al momento de asignar una categoria elegis la categoria llamada "otros" no podra ser filtrada en la pagina principal, pero si aparecera en la tienda.
+
+    - Hay algunos ""productos"" de ejemplo, estos no pueden ser borrados desde el admin.html, si quieres eliminarlos debes ir al archivo "productos.js" y borrar la linea n°122
+    ##Aclaracion## Cualquier decision va bajo su propio riesgo.
+
+    -
